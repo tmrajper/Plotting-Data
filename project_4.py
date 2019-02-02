@@ -1,6 +1,4 @@
 # Author: Tarik Rajper
-# Assignment: Project #4
-# Date (Last Revised): 11/06/2018
 
 import matplotlib.pyplot as plt
 
